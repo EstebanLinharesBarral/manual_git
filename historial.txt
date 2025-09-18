@@ -1,2 +1,7 @@
 A
+<<<<<<< HEAD
 B
+C
+=======
+>>>>>>> parent of 4f6be76 (B)
+Modificación
